@@ -7,6 +7,5 @@ Un cluster (o clúster de computación) es un conjunto de computadoras intercone
 Cada computadora dentro del cluster, conocida como nodo, contribuye con sus propios recursos de cómputo —como procesador, memoria y almacenamiento— y se comunica con los demás nodos a través de una red. Gracias a esta arquitectura, los clusters son ampliamente utilizados en aplicaciones científicas, análisis de datos, simulaciones, servidores y entornos donde se requiere alto rendimiento o alta disponibilidad.
 
 <p align="center">
-  <Imagenes src="imagenes/cluster.png" width="400">
+  <img src="Imagenes/cluster.png" width="400">
 </p>
-
