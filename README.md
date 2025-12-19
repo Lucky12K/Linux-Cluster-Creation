@@ -1,4 +1,4 @@
-# Linux-Cluster-Creation
+# Creating a Linux Cluster for simulations with OpenFoam
 
 ¿Que es un Cluster?
 
