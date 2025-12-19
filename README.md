@@ -36,3 +36,8 @@ Common applications include:
 ⚙️ Turbines, pumps, and valves.
 
 🧪 Scientific and academic research
+
+
+<p align="center">
+  <img src="Imagenes/AKKOsf.png" width="400">
+</p>
