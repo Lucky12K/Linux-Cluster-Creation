@@ -1,6 +1,6 @@
 # Creating a Linux Cluster for simulations with OpenFoam
 
-What is a Cluster?
+# What is a Cluster?
 
 A cluster (or computing cluster) is a group of interconnected computers that work together in a coordinated manner as if they were a single system. Its main objective is to divide and execute tasks in parallel, allowing more complex problems to be solved, reducing processing time, and increasing system reliability compared to a single machine.
 
@@ -10,14 +10,14 @@ Each computer within the cluster, known as a node, contributes its own computing
   <img src="Imagenes/cluster.png" width="300">
 </p>
 
-What is OpenFOAM?
+# What is OpenFOAM?
 
 OpenFOAM is an open-source computational fluid dynamics (CFD) software used to simulate fluid flow, heat transfer, and related physical phenomena. It is widely used in scientific and engineering applications and is well suited for parallel execution on Linux clusters.
 <p align="center">
   <img src="Imagenes/openfoam.jpg" width="400">
 </p>
 
-What is OpenFOAM Used For?
+# What is OpenFOAM Used For?
 
 OpenFOAM is used to simulate complex physical phenomena without the need to build real prototypes, saving time and costs.
 
@@ -37,7 +37,8 @@ Common applications include:
 
 🧪 Scientific and academic research
 
+# Steps for Creating a Cluster
 
-<p align="center">
-  <img src="Imagenes/AKKOsf.png" width="400">
+<p align="right">
+  <img src="Imagenes/AKKOsf.png" width="200">
 </p>
