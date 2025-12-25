@@ -39,6 +39,20 @@ Common applications include:
 
 # Steps for Creating a Cluster
 
+#Guide for Creating a Computing Cluster on the
+Ubuntu Operating System.
+
+English
+
+->
+
+#Guía para la creación de un clúster en el sistema
+operativo Ubuntu
+
+Español
+
+->
+
 <p align="right">
   <img src="Imagenes/AKKOsf.png" width="200">
 </p>
